@@ -1,1 +1,1 @@
-<img width="20" height="22" alt="image" src="https://github.com/user-attachments/assets/6c49c3c2-29e8-43d5-a3fe-d4b2d2149af5" />
+<img width="123" height="141" alt="Ekran görüntüsü 2026-09-26 225436" src="https://github.com/user-attachments/assets/45deaccb-ae42-42aa-9b13-e088fb6bff10" />
